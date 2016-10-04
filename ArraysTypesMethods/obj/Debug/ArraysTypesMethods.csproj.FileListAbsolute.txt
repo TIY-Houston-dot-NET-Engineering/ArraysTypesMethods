@@ -1,0 +1,6 @@
+C:\Users\MattyK\Code\ArraysTypesMethods\ArraysTypesMethods\bin\Debug\ArraysTypesMethods.exe.config
+C:\Users\MattyK\Code\ArraysTypesMethods\ArraysTypesMethods\bin\Debug\ArraysTypesMethods.exe
+C:\Users\MattyK\Code\ArraysTypesMethods\ArraysTypesMethods\bin\Debug\ArraysTypesMethods.pdb
+C:\Users\MattyK\Code\ArraysTypesMethods\ArraysTypesMethods\obj\Debug\ArraysTypesMethods.csprojResolveAssemblyReference.cache
+C:\Users\MattyK\Code\ArraysTypesMethods\ArraysTypesMethods\obj\Debug\ArraysTypesMethods.exe
+C:\Users\MattyK\Code\ArraysTypesMethods\ArraysTypesMethods\obj\Debug\ArraysTypesMethods.pdb
